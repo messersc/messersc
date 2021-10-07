@@ -24,6 +24,16 @@ I'm a data scientist with a background in computational biology and bioinformati
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?rstyle=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8632-656X)
 
+#### Contributions
+
+| Project | repository | publication |
+|---------|------------|-------------|
+| SNAPPY: SNAPPY Nucleic Acid Processing Pipeline | https://github.com/bihealth/snappy-pipeline | unpublished |
+| SCelVis: Easy Single-Cell Visualization | https://github.com/bihealth/scelvis | https://doi.org/10.7717/peerj.8607 |
+| DigestiFlow: from BCL to FASTQ with ease | https://github.com/bihealth/digestiflow-demux | https://doi.org/10.1093/bioinformatics/btz850 |
+| SigsPack: a package for cancer mutational signatures | https://github.com/bihealth/SigsPack | https://doi.org/10.1186/s12859-019-3043-7 |
+| HLA-MA: simple yet powerful matching of samples using HLA typing results | https://github.com/bihealth/hlama | https://doi.org/10.1093/bioinformatics/btx132 |
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=messersc&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&show_icons=true" />
 
